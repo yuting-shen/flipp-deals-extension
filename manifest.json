@@ -1,0 +1,14 @@
+{
+  "name": "Flipp Deals Extension",
+  "description": "A Chrome Extension for finding the best deals on Flipp",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_icon": {
+      "16": "public/icons/16x16.png",
+      "48": "public/icons/48x48.png",
+      "128": "public/icons/128x128.png"
+    },
+    "default_popup": "src/popups/popup.html"
+  }
+}
